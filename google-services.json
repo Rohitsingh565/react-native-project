@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430716650217",
+    "project_id": "react-native-mock-project",
+    "storage_bucket": "react-native-mock-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430716650217:android:a9ae126e9b681bd2852678",
+        "android_client_info": {
+          "package_name": "com.rohit_singh2020.firstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430716650217-1lhrbdjq5dvm3g3j5j7pbdj3jff4ophi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohit_singh2020.firstproject",
+            "certificate_hash": "856b964ed896c2cd3dc025ecf14ed821f6119edc"
+          }
+        },
+        {
+          "client_id": "430716650217-d4vcaj7ii8kqo1q969v2gagt94ludgio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohit_singh2020.firstproject",
+            "certificate_hash": "2ab5a44467113446637f77a29c07363a598bd20f"
+          }
+        },
+        {
+          "client_id": "430716650217-ct6ghe8pf0amkjliiieb7sv292bn6857.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiEw-VcjaERrivLp5Hjgt6RWs3WKVnx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430716650217-ct6ghe8pf0amkjliiieb7sv292bn6857.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

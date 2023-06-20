@@ -77,16 +77,12 @@ export default function App() {
     <Header/>
     <View style={{width:80,marginLeft:230, marginTop:5}} >
     <Button  color={'lightblue'} title='Sign Out'  onPress={signOut}/>
-   
     </View>
-
     <View style={{marginTop:30, alignItems:'center', border: '4'}}>
       <UserCard  url={user.photoURL} name={user.displayName}/>
     </View>
     <Cards  imageURL={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuLh5RyUR6FDYZi9MQeD7RoQfU90cY67quA&usqp=CAU" } title={"First card"} description = {"Our vehicles are some of the safest in the world. After safety, our goal is to make every Tesla the most fun you could possibly have in a vehicle. We build featur and more." }/>
-  
     <Cards  imageURL={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-zw2gwlCsj0l0WyXnppaSCeTa4rCrYEEyQ&usqp=CAU" } title={"Second card"} description = {"Rolls-Royce Motor Cars Limited is a British luxury automobile maker which has operated as a wholly owned subsidiary of BMW AG since 2003 as the exclus." }/>
-   
   </ScrollView>
  )
 }
